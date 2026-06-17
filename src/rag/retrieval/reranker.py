@@ -2,7 +2,7 @@ from sentence_transformers import CrossEncoder
 
 
 class CrossEncoderReranker:
-    """Singleton cross-encoder for reranking. """
+    """Singleton cross-encoder for reranking."""
 
     _instance = None
     _model = None
