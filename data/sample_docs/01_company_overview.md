@@ -8,7 +8,7 @@ We are on a mission to make learning a daily habit for the 2.7 billion deskless 
 
 ## Founding Story
 
-Priya Mehta and James Okonkwo met in the University of Waterloo's AI lab in 2017. Priya had been researching spaced-repetition cognition science—the psychological principle that optimally-timed review maximizes long-term retention. James was building distributed systems and had just published research on fault-tolerant scheduling algorithms.
+Priya Mehta and James Okonkwo met in the University of Waterloo's AI lab in 2017. Priya had been researching spaced-repetition cognition science - the psychological principle that optimally-timed review maximizes long-term retention. James was building distributed systems and had just published research on fault-tolerant scheduling algorithms.
 
 They saw the gap: enterprise L&D teams knew that annual e-learning compliance courses had near-zero long-term retention, yet they had no better alternative. Priya proposed: what if we use spaced repetition science + mobile-first design + gamification to make learning addictive and effective?
 
