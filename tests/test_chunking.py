@@ -4,7 +4,7 @@ from rag.ingestion.chunking import chunk_documents, extract_section_header
 
 
 def test_chunk_size_bounds():
-    """Chunks should be within size bounds."""
+    """Chunks should be within  size bounds."""
     doc = Document(
         page_content="This is a test document. " * 100,
         metadata={"source_file": "test.md", "doc_title": "Test"},
