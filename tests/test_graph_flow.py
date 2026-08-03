@@ -3,7 +3,7 @@ import pytest
 
 @pytest.mark.asyncio
 async def test_graph_factual_flow(mock_litellm):
-    """Test factual query flow through graphs"""
+    """Test factual query flow through graphs."""
     from rag.agents.graph import build_graph, run_query
 
     graph = build_graph()
