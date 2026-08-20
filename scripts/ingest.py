@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 """Ingest sample documents into Qdrant."""
 
 import asyncio
